@@ -13,6 +13,7 @@ public class Demo {
         format.applyPattern("0.##");
         String format1 = format.format(value);
         System.out.println(format1);
+        System.out.println("qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq");
         
     }
 
